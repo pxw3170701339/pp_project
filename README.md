@@ -78,6 +78,8 @@ This is project information  for 2020 spring course software engineering
 30/对对队  何国行（https://www.cnblogs.com/cshgh/）   汤友丽（https://www.cnblogs.com/letusrushb/）     四则运算 https://github.com/heguohang/pair_programming
 
 31/混子队   储兆强（https://www.cnblogs.com/chuzhaoqiang/）蒋坤（https://www.cnblogs.com/jk521/）  四则运算 https://github.com/chuzhaoqiang/czq
+
+
 32/TL   张丽（https://www.cnblogs.com/zeroli/） 吴庭（https://www.cnblogs.com/hotdog8/） 四则远算 https://github.com/Zerol-i/my-travel-plans
 
 33/哲学边界   曹源（https://www.cnblogs.com/zhiless/）王鑫煜（https://www.cnblogs.com/99xinyu/）  四则运算 https://github.com/yuanyuan0931/homeworkillers
@@ -115,7 +117,6 @@ This is project information  for 2020 spring course software engineering
 46/句号             王荡（https://www.cnblogs.com/paxifa/）   季兴元（https://www.cnblogs.com/jixingyuan/）  生命游戏 https://github.com/paxifaer/pp_project
 
 47/犹如幻翳 郭建琛（https://www.cnblogs.com/1772035039gjc/） 彭功伟（https://www.cnblogs.com/penggongwei/）四则运算 https://github.com/1772035039/-.git
-
 
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
 
